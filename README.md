@@ -4,6 +4,8 @@
 **Booki** est un **site Internet** qui permet aux usagers de **trouver des hébergements** et des activités dans la ville de leur choix.
 L'objectif est d'**intégrer l'interface** du site avec du code **HTML et CSS**, à partir de maquettes Figma.
 
+Mon site est visible sur : [Booki by Jim294](https://jim294.github.io/Booki.io/)
+
 ## Spécifications fonctionnelles
 * Les usagers pourront **rechercher des hébergements dans la ville de leur choix** avec un champ de recherche, dans lequel ils peuvent saisir une ville *(recherche non fonctionnelle – première version pour valider l'interface)*
 

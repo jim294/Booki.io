@@ -29,3 +29,18 @@ fond **(#F2F2F2)**.
 * La mise en page est réalisée avec **Flexbox**
 * Utilisation des **balises sémantiques** : *header*, *nav*, *h1/h2/h3*, *main*, *section*, *article* et *footer*
 * Le code passe les **validateurs W3C** [HTML](https://validator.w3.org/) et [CSS](https://jigsaw.w3.org/css-validator/)
+
+## Tester le projet
+
+Clonez le projet
+```terminal
+git clone https://github.com/jim294/Booki.io.git
+```
+Installez les dépendances
+```terminal
+npm install
+```
+Et lancez le serveur !
+```terminal
+npm start
+```

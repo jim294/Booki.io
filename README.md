@@ -1,5 +1,5 @@
 # Booki
-### OpenClassrooms P3 - Transformez une maquette en site web avec HTML & CSS
+### OpenClassrooms P3 - Création de la page d'accueil d'une agence de voyage avec HTML & CSS
 
 **Booki** est un **site Internet** qui permet aux usagers de **trouver des hébergements** et des activités dans la ville de leur choix.
 L'objectif est d'**intégrer l'interface** du site avec du code **HTML et CSS**, à partir de maquettes Figma.
